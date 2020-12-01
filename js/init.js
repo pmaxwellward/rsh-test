@@ -11,7 +11,7 @@
         skipLength: 30,
         controlsHideTime: 3000,
         user: "UCpaDIRGzBwp6B88WflwuFpA",
-        devKey: process.env.API_KEY,
+        devKey: API_KEY,
         showLatestChannel: false,
         displayButtons: false
     };
