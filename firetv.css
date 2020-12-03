@@ -110,7 +110,7 @@ div {
 
 .leftnav-list-item-static {
   word-wrap: break-word;
-  line-height: 2;
+  line-height: 2.4;
   font-weight: lighter;
   font-size: 1.7em;
   min-height: 90px;
@@ -233,7 +233,7 @@ div {
   left: 150px;
   color: #a21a32; }
   .one-D-details-summary-text .one-D-summary-title {
-    line-height: 1.4;
+    line-height: 1.0;
     color: #a21a32;
     font-size: 1.8em;
     font-family: "Helvetica Neue Medium", "HelveticaNeue-Medium", Helvetica, Arial, sans-serif;
