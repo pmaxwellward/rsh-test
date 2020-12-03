@@ -728,5 +728,6 @@ div {
   -moz-transform: scale(0.75);
   transform: scale(0.75); }
   .app-logo img {
-    height: 240px;
-    width: 240px; }
+    /*height: 240px;
+    width: 240px;*/
+    max-width: 100%; }
