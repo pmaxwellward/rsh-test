@@ -33,7 +33,7 @@ body {
   margin: 0;
   font-size: 20pt;
   font-family: "Helvetica Neue Light", "HelveticaNeue-Light", Helvetica, Arial, sans-serif;
-  background: #ffffff url("assets/bg_app.jpg") no-repeat left top;
+  background: #fefefe url("assets/bg_app.jpg") no-repeat left top;
   background-size: 100% 100%; }
 
 div {
@@ -81,7 +81,7 @@ div {
 
 .leftnav-menulist-collapsed {
   top: 148px;
-  height: 92px;
+  height: 76px;
   z-index: 10; }
 
 .leftnav-collapsed-highlight {
@@ -93,7 +93,7 @@ div {
   border-color: #dadada; }
 
 .leftnav-menulist-collapsed .leftnav-menu-scrolling-list {
-  margin-top: -148px; }
+  margin-top: -152px; }
 
 .leftnav-menu-scrolling-list {
   color: #b9bbbd; }
