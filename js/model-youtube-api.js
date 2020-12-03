@@ -58,7 +58,7 @@
                     var item = jsonData.items[0];
                     var snippet = item.snippet;
                     this.channelId = item.id;
-                    this.appLogo = this.getHighestResThumb(snippet.thumbnails);
+                    //this.appLogo = this.getHighestResThumb(snippet.thumbnails);
                     if (this.hasLatestChannel) {
                         this.createLatestChannel();
                     }
