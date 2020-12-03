@@ -33,8 +33,7 @@ body {
   margin: 0;
   font-size: 20pt;
   font-family: "Helvetica Neue Light", "HelveticaNeue-Light", Helvetica, Arial, sans-serif;
-  /*background: #5a656f url("assets/bg_app.jpg") no-repeat left top;*/
-  background-color: #fff;
+  background: #ffffff url("assets/bg_app.jpg") no-repeat left top;
   background-size: 100% 100%; }
 
 div {
@@ -52,7 +51,7 @@ div {
   position: absolute;
   width: 100%;
   height: 240px;
-  background-color: rgba(0, 0, 0, 0.1); }
+  background-color: rgba(0, 0, 0, 0.0); }
 
 .app-logo {
   position: absolute;
@@ -73,7 +72,7 @@ div {
   height: 100%;
   padding: 0px;
   overflow: hidden;
-  background-color: rgba(0, 0, 0, 0.9); }
+  background-color: #5981be; }
 
 .leftnav-menulist-expanded {
   height: 100%;
@@ -143,10 +142,10 @@ div {
 .leftnav-list-item-highlighted {
   color: #e8e8e8;
   border-width: 1px 1px 1px 0px;
-  background: #000000 url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center;
-  -webkit-filter: brightness(200%);
+  background:#2865c2 url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center;
+  /*-webkit-filter: brightness(200%);
   -moz-filter: brightness(200%);
-  filter: brightness(200%); }
+  filter: brightness(200%);*/ }
 
 .leftnav-list-item-container .leftnav-list-item-selected {
   color: #000000;
@@ -157,7 +156,7 @@ div {
   border-style: solid;
   border-width: 1px 1px 1px 0px;
   color: #e8e8e8;
-  background: #3f484f url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center; }
+  background: #5981be url(assets/icon_leftnav_arrowDown.png) no-repeat right 40px center; }
 
 .search-icon {
   height: 50px;
@@ -229,10 +228,10 @@ div {
   top: 690px;
   width: 80%;
   left: 150px;
-  color: #e8e8e8; }
+  color: #a21a32; }
   .one-D-details-summary-text .one-D-summary-title {
     line-height: 1.4;
-    color: #e8e8e8;
+    color: #a21a32;
     font-size: 1.8em;
     font-family: "Helvetica Neue Medium", "HelveticaNeue-Medium", Helvetica, Arial, sans-serif;
     height: 62px;
@@ -256,7 +255,8 @@ div {
     font-weight: 200;
     height: 30px;
     font-size: 1em;
-    color: #b9bbbd; }
+    color: #b9bbbd;
+    display: none; }
     .one-D-details-summary-text .one-D-summary-pubdate .time-now-live {
       color: #FF704D; }
     .one-D-details-summary-text .one-D-summary-pubdate .time-upcoming {
@@ -498,12 +498,12 @@ div {
 .player-controls-timestamp-curtime {
   color: #e8e8e8;
   display: inline-block;
-  float: left; }
+  /*float: left;*/ }
 
 .player-controls-timestamp-totaltime {
   color: #b9bbbd;
   display: inline-block;
-  float: right; }
+  /*float: right;*/ }
 
 .player-controls-content-title {
   position: absolute;
