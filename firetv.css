@@ -56,7 +56,8 @@ div {
 .app-logo {
   position: absolute;
   bottom: -7px;
-  right: 150px; }
+  right: 150px;
+  display: none; }
 
 .leftnav-main-container {
   position: absolute;
