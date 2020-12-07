@@ -152,6 +152,8 @@
 
         window.addEventListener("keydown", this.handleKeyDown, false);
         window.addEventListener("keyup", this.handleKeyUp, false);
+        window.addEventListener("mousedown", this.handleKeyDown, false);
+        window.addEventListener("mouseup", this.handleKeyUp, false);
 
         // the system handles the 'back' button on the remote and turns it into a browser back event, so
         // we use the history API to watch for 'popstate' (back button press) events and convert these into

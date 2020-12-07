@@ -76,6 +76,7 @@ div {
   height: 100%;
   padding: 0px;
   overflow: hidden;
+  font-weight: 700;
   background-color: #5981be; }
 
 .leftnav-menulist-expanded {
@@ -683,7 +684,7 @@ div {
   .modal-dialog .dialog-title {
     margin-bottom: 30px;
     font-size: 48pt;
-    font-family: "Helvetica Neue Medium", "HelveticaNeue-Medium", Helvetica, Arial, sans-serif; }
+    font-family: 'Nunito', sans-serif; }
   .modal-dialog .dialog-message {
     margin-bottom: 60px;
     font-size: 36pt; }
