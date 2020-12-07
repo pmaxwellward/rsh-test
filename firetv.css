@@ -33,6 +33,7 @@ body {
   margin: 0;
   font-size: 15pt;
   font-family: 'Nunito', sans-serif;
+  text-transform: uppercase;
   background: #fefefe url("assets/bg_app.jpg") no-repeat left top;
   background-size: 100% 100%; }
 
