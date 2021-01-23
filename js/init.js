@@ -1,22 +1,17 @@
-
-
 (function(exports) {
     'use strict';
-
-    const key1 = "AIzaSyAeVFK45K-_p_";
-    const key2 = "KHZBM-UpU3hfJta6u5dzM";
-
+    //initialize the app
     var settings = {
-        Model: YouTubeAPIModel,
-        PlayerView: YouTubePlayerView,
+        Model: JSONMediaModel,
+        PlayerView: PlayerView,
         PlaylistView: PlaylistPlayerView,
+        dataURL: "./assets/genericMediaData.json",
         showSearch: true,
-        skipLength: 30,
+        displayButtons:false,
+        skipLength: 10,
         controlsHideTime: 3000,
-        user: "UCpaDIRGzBwp6B88WflwuFpA",
-        devKey: key1.concat(key2),
-        showLatestChannel: false,
-        displayButtons: false
+        networkTimeout: 20,
+        retryTimes: 3
     };
 
     exports.app = new App(settings);

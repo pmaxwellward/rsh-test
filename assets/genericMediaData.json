@@ -1,0 +1,82 @@
+{
+    "media": [
+        {
+            "id": "00",
+            "title": "G-Tube | Intro & Cleaning",
+            "pubDate": "Friday, 22 Jan 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/gtube_00.jpg",
+            "imgURL": "assets/thumbnails/gtube_00.jpg",
+            "videoURL": "assets/vids/gtube_04.mp4",
+            "subtitlesURL" : "assets/sample_video-en.vtt",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "01",
+            "title": "G-Tube | Changing the Feeding and Farrell Bag",
+            "pubDate": "Friday, 22 Jan 2021 11:58:06 GMT",
+            "thumbURL": "assets/thumbnails/gtube_01.jpg",
+            "imgURL": "assets/thumbnails/gtube_01.jpg",
+            "videoURL": "assets/vids/gtube_04.mp4",
+            "subtitlesURL" : "assets/sample_video-en.vtt",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "02",
+            "title": "G-Tube | Programming the Feeding Bag",
+            "pubDate": "Friday, 22 Jan 2021 11:59:06 GMT",
+            "thumbURL": "assets/thumbnails/gtube_02.jpg",
+            "imgURL": "assets/thumbnails/gtube_02.jpg",
+            "videoURL": "assets/vids/gtube_04.mp4",
+            "subtitlesURL" : "assets/sample_video-en.vtt",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "03",
+            "title": "G-Tube | Giving Medication",
+            "pubDate": "Friday, 22 Jan 2021 12:00:00 GMT",
+            "thumbURL": "assets/thumbnails/gtube_03.jpg",
+            "imgURL": "assets/thumbnails/gtube_03.jpg",
+            "videoURL": "assets/vids/gtube_04.mp4",
+            "subtitlesURL" : "assets/sample_video-en.vtt",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "04",
+            "title": "G-Tube | Cleaning the G-Tube Extension",
+            "pubDate": "Friday, 22 Jan 2021 12:01:06 GMT",
+            "thumbURL": "assets/thumbnails/gtube_04.jpg",
+            "imgURL": "assets/thumbnails/gtube_04.jpg",
+            "videoURL": "assets/vids/gtube_04.mp4",
+            "subtitlesURL" : "assets/sample_video-en.vtt",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        },
+        {
+            "id": "05",
+            "title": "G-Tube | Troubleshooting",
+            "pubDate": "Friday, 22 Jan 2021 12:02:06 GMT",
+            "thumbURL": "assets/thumbnails/gtube_05.jpg",
+            "imgURL": "assets/thumbnails/gtube_05.jpg",
+            "videoURL": "assets/vids/gtube_04.mp4",
+            "subtitlesURL" : "assets/sample_video-en.vtt",
+            "categories": [
+                "G-Tube"
+            ],
+            "description": ""
+        }
+    ]
+}
