@@ -6,7 +6,7 @@
         PlayerView: PlayerView,
         PlaylistView: PlaylistPlayerView,
         dataURL: "./assets/genericMediaData.json",
-        showSearch: true,
+        showSearch: false,
         displayButtons:false,
         skipLength: 10,
         controlsHideTime: 3000,
