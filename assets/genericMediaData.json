@@ -609,6 +609,124 @@
                 "Other Resources"
             ],
             "description": ""
+        },
+        {
+            "id": "trach-change-00",
+            "title": "Tracheostomy Changing | Intro",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyChanging_00.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyChanging_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/nxs9543e10akbsh/tracheostomyChanging_00.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Changing"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-change-01",
+            "title": "Tracheostomy Changing | How To Change",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyChanging_01.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyChanging_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/llewjzc5fsfvwpu/tracheostomyChanging_01.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Changing"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-change-02",
+            "title": "Tracheostomy Changing | Demonstration",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyChanging_02.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyChanging_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/o8p14k4vztydik8/tracheostomyChanging_02.mp4?dl=0",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Changing"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-change-03",
+            "title": "Tracheostomy Changing | Emergent Change",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyChanging_03.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyChanging_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/ydt2vchn03mc1ej/tracheostomyChanging_03.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Changing"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-ts-00",
+            "title": "Tracheostomy Troubleshooting | Intro",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyTroubleshooting_00.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyTroubleshooting_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/a7y2vai1jdothic/tracheostomyTroubleshooting_00.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Troubleshooting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-ts-01",
+            "title": "Tracheostomy Troubleshooting | Resuscitation Bag",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyTroubleshooting_01.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyTroubleshooting_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/t44wrrmqh6d1pb6/tracheostomyTroubleshooting_01.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Troubleshooting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-ts-02",
+            "title": "Tracheostomy Troubleshooting | Resuscitation Bag Cont.",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyTroubleshooting_02.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyTroubleshooting_02.jpg",
+            "videoURL": "https://www.dropbox.com/s/onv9e90v3ebowlb/tracheostomyTroubleshooting_02.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Troubleshooting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-ts-03",
+            "title": "Tracheostomy Troubleshooting | Mask Placement",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyTroubleshooting_03.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyTroubleshooting_03.jpg",
+            "videoURL": "https://www.dropbox.com/s/y4b7i1y18cldh4q/tracheostomyTroubleshooting_03.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Troubleshooting"
+            ],
+            "description": ""
+        },
+        {
+            "id": "trach-ts-04",
+            "title": "Tracheostomy Troubleshooting | Helpful Tips",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/tracheostomyTroubleshooting_04.jpg",
+            "imgURL": "assets/thumbnails/tracheostomyTroubleshooting_04.jpg",
+            "videoURL": "https://www.dropbox.com/s/re4dzcdwg5ni4a5/tracheostomyTroubleshooting_04.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Tracheostomy Troubleshooting"
+            ],
+            "description": ""
         }
+        
     ]
 }
