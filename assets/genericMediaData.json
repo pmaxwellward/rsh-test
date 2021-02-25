@@ -80,7 +80,7 @@
         },
         {
             "id": "gobag-00",
-            "title": "Go Bag | 00",
+            "title": "Go Bag | Intro",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/gobag_00.jpg",
             "imgURL": "assets/thumbnails/gobag_00.jpg",
@@ -93,7 +93,7 @@
         },
         {
             "id": "gobag-01",
-            "title": "Go Bag | 01",
+            "title": "Go Bag | Packing the Trach Bag",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/gobag_01.jpg",
             "imgURL": "assets/thumbnails/gobag_01.jpg",
@@ -105,7 +105,7 @@
             "description": ""
         },        {
             "id": "gobag-02",
-            "title": "Go Bag | 02",
+            "title": "Go Bag | Packing the Suctioning Unit",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/gobag_02.jpg",
             "imgURL": "assets/thumbnails/gobag_02.jpg",
@@ -118,7 +118,7 @@
         },
         {
             "id": "gobag-03",
-            "title": "Go Bag | 00",
+            "title": "Go Bag | Trach Supplies Bag",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/gobag_03.jpg",
             "imgURL": "assets/thumbnails/gobag_03.jpg",
@@ -131,7 +131,7 @@
         },
         {
             "id": "gobag-04",
-            "title": "Go Bag | 00",
+            "title": "Go Bag | Packing the Trach Ties",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/gobag_04.jpg",
             "imgURL": "assets/thumbnails/gobag_04.jpg",
@@ -144,7 +144,7 @@
         },
         {
             "id": "gobag-05",
-            "title": "Go Bag | 00",
+            "title": "Go Bag | Packing the Suction Catheter",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/gobag_05.jpg",
             "imgURL": "assets/thumbnails/gobag_05.jpg",
@@ -157,7 +157,7 @@
         },
         {
             "id": "gobag-06",
-            "title": "Go Bag | 00",
+            "title": "Go Bag | Breathing Treatment",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/gobag_06.jpg",
             "imgURL": "assets/thumbnails/gobag_06.jpg",
@@ -170,7 +170,7 @@
         },
         {
             "id": "gobag-07",
-            "title": "Go Bag | 00",
+            "title": "Go Bag | G-Tube Bag",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/gobag_07.jpg",
             "imgURL": "assets/thumbnails/gobag_07.jpg",
@@ -183,7 +183,7 @@
         },
         {
             "id": "gobag-08",
-            "title": "Go Bag | 00",
+            "title": "Go Bag | Closing Up the G-Tube Bag",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/gobag_08.jpg",
             "imgURL": "assets/thumbnails/gobag_08.jpg",
@@ -196,7 +196,7 @@
         },
         {
             "id": "cl-00",
-            "title": "Intro",
+            "title": "Central Line | Intro",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_00.jpg",
             "imgURL": "assets/thumbnails/cl_00.jpg",
@@ -209,7 +209,7 @@
         },
         {
             "id": "cl-01",
-            "title": "Types and Parts of Central Lines",
+            "title": "Central Line | Types and Parts of Central Lines",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_01.jpg",
             "imgURL": "assets/thumbnails/cl_01.jpg",
@@ -222,7 +222,7 @@
         },
         {
             "id": "cl-02",
-            "title": "Preparing the area",
+            "title": "Central Line | Preparing the area",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_02.jpg",
             "imgURL": "assets/thumbnails/cl_02.jpg",
@@ -235,7 +235,7 @@
         },
         {
             "id": "cl-03",
-            "title": "Accessing and flushing",
+            "title": "Central Line | Accessing and flushing",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_03.jpg",
             "imgURL": "assets/thumbnails/cl_03.jpg",
@@ -248,7 +248,7 @@
         },
         {
             "id": "cl-04",
-            "title": "Giving Medication via Central Line",
+            "title": "Central Line | Giving Medication via Central Line",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_04.jpg",
             "imgURL": "assets/thumbnails/cl_04.jpg",
@@ -261,7 +261,7 @@
         },
         {
             "id": "cl-05",
-            "title": "Giving Medication via Pump",
+            "title": "Central Line | Giving Medication via Pump",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_05.jpg",
             "imgURL": "assets/thumbnails/cl_05.jpg",
@@ -274,7 +274,7 @@
         },
         {
             "id": "cl-06",
-            "title": "Chaning the injection cap",
+            "title": "Central Line | Chaning the injection cap",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_06.jpg",
             "imgURL": "assets/thumbnails/cl_06.jpg",
@@ -287,7 +287,7 @@
         },
         {
             "id": "cl-07",
-            "title": "Changing the dressing",
+            "title": "Central Line | Changing the dressing",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_07.jpg",
             "imgURL": "assets/thumbnails/cl_07.jpg",
@@ -300,7 +300,7 @@
         },
         {
             "id": "cl-08",
-            "title": "Chaning dressing with a picc line",
+            "title": "Central Line | Chaning dressing with a picc line",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_08.jpg",
             "imgURL": "assets/thumbnails/cl_08.jpg",
@@ -313,7 +313,7 @@
         },
         {
             "id": "cl-09",
-            "title": "Broken or torn lines",
+            "title": "Central Line | Broken or torn lines",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_09.jpg",
             "imgURL": "assets/thumbnails/cl_09.jpg",
@@ -326,7 +326,7 @@
         },
         {
             "id": "cl-10",
-            "title": "Supplies for emergency go bag kit",
+            "title": "Central Line | Supplies for emergency go bag kit",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/cl_10.jpg",
             "imgURL": "assets/thumbnails/cl_10.jpg",
@@ -339,7 +339,7 @@
         },
         {
             "id": "nesting_00",
-            "title": "Intro",
+            "title": "Nesting | Intro",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/nesting_00.jpg",
             "imgURL": "assets/thumbnails/nesting_00.jpg",
@@ -352,7 +352,7 @@
         },
         {
             "id": "nesting_01",
-            "title": "Goals and Benchmarks",
+            "title": "Nesting | Goals and Benchmarks",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/nesting_01.jpg",
             "imgURL": "assets/thumbnails/nesting_01.jpg",
@@ -365,7 +365,7 @@
         },
         {
             "id": "nesting_02",
-            "title": "Medical equipment in-services",
+            "title": "Nesting | Medical equipment in-services",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/nesting_02.jpg",
             "imgURL": "assets/thumbnails/nesting_02.jpg",
@@ -378,7 +378,7 @@
         },
         {
             "id": "nesting_03",
-            "title": "Nesting procedures",
+            "title": "Nesting | Nesting procedures",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/nesting_03.jpg",
             "imgURL": "assets/thumbnails/nesting_03.jpg",
@@ -391,7 +391,7 @@
         },
         {
             "id": "nesting_04",
-            "title": "Nesting Expectations",
+            "title": "Nesting | Nesting Expectations",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/nesting_04.jpg",
             "imgURL": "assets/thumbnails/nesting_04.jpg",
@@ -404,7 +404,7 @@
         },
         {
             "id": "nesting_05",
-            "title": "Necessary Emergency Medical Equipment",
+            "title": "Nesting | Necessary Emergency Medical Equipment",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/nesting_05.jpg",
             "imgURL": "assets/thumbnails/nesting_05.jpg",
@@ -417,7 +417,7 @@
         },
         {
             "id": "nesting_06",
-            "title": "Nesting over 24 hours",
+            "title": "Nesting | Nesting over 24 hours",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/nesting_06.jpg",
             "imgURL": "assets/thumbnails/nesting_06.jpg",
@@ -430,7 +430,7 @@
         },
         {
             "id": "nesting_07",
-            "title": "Nesting completion",
+            "title": "Nesting | Nesting completion",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/nesting_07.jpg",
             "imgURL": "assets/thumbnails/nesting_07.jpg",
@@ -443,7 +443,7 @@
         },
         {
             "id": "tc_00",
-            "title": "Intro",
+            "title": "Trach Care | Intro",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/tc_00.jpg",
             "imgURL": "assets/thumbnails/tc_00.jpg",
@@ -456,7 +456,7 @@
         },
         {
             "id": "tc_01",
-            "title": "Clearing tube interior",
+            "title": "Trach Care | Clearing tube interior",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/tc_01.jpg",
             "imgURL": "assets/thumbnails/tc_01.jpg",
@@ -469,7 +469,7 @@
         },
         {
             "id": "tc_02",
-            "title": "Tube maintenance",
+            "title": "Trach Care | Tube maintenance",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/tc_02.jpg",
             "imgURL": "assets/thumbnails/tc_02.jpg",
@@ -482,7 +482,7 @@
         },
         {
             "id": "tc_03",
-            "title": "Demonstration",
+            "title": "Trach Care | Demonstration",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/tc_03.jpg",
             "imgURL": "assets/thumbnails/tc_03.jpg",
@@ -495,7 +495,7 @@
         },
         {
             "id": "tc_04",
-            "title": "Changing the ventilator tubing",
+            "title": "Trach Care | Changing the ventilator tubing",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/tc_04.jpg",
             "imgURL": "assets/thumbnails/tc_04.jpg",
@@ -508,105 +508,105 @@
         },
         {
             "id": "travel_00",
-            "title": "Intro",
+            "title": "Traveling | Intro",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/travel_00.jpg",
             "imgURL": "assets/thumbnails/travel_00.jpg",
             "videoURL": "https://www.dropbox.com/s/inunec87zfxwiz6/travel_00.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
-                "Travel with Medical Equipment"
+                "Traveling with Medical Equipment"
             ],
             "description": ""
         },
         {
             "id": "travel_01",
-            "title": "Organizing equipment in the car",
+            "title": "Traveling | Organizing equipment in the car",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/travel_01.jpg",
             "imgURL": "assets/thumbnails/travel_01.jpg",
             "videoURL": "https://www.dropbox.com/s/4ppw5m41vyi5pse/travel_01.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
-                "Travel with Medical Equipment"
+                "Traveling with Medical Equipment"
             ],
             "description": ""
         },
         {
             "id": "travel_02",
-            "title": "Zippie Voyage disassembly",
+            "title": "Traveling | Zippie Voyage disassembly",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/travel_02.jpg",
             "imgURL": "assets/thumbnails/travel_02.jpg",
             "videoURL": "https://www.dropbox.com/s/98t4fsfjgv7wtgi/travel_02.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
-                "Travel with Medical Equipment"
+                "Traveling with Medical Equipment"
             ],
             "description": ""
         },
         {
             "id": "travel_03",
-            "title": "Zippie Voyage assembly",
+            "title": "Traveling | Zippie Voyage assembly",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/travel_03.jpg",
             "imgURL": "assets/thumbnails/travel_03.jpg",
             "videoURL": "https://www.dropbox.com/s/mhxa9kq3o55jtzc/travel_03.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
-                "Travel with Medical Equipment"
+                "Traveling with Medical Equipment"
             ],
             "description": ""
         },
         {
             "id": "travel_04",
-            "title": "Kid cart storage",
+            "title": "Traveling | Kid cart storage",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/travel_04.jpg",
             "imgURL": "assets/thumbnails/travel_04.jpg",
             "videoURL": "https://www.dropbox.com/s/9vwogqsqgrenl6y/travel_04.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
-                "Travel with Medical Equipment"
+                "Traveling with Medical Equipment"
             ],
             "description": ""
         },
         {
             "id": "travel_05",
-            "title": "Kid cart assembly",
+            "title": "Traveling | Kid cart assembly",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/travel_05.jpg",
             "imgURL": "assets/thumbnails/travel_05.jpg",
             "videoURL": "https://www.dropbox.com/s/pad46sjetywhr92/travel_05.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
-                "Travel with Medical Equipment"
+                "Traveling with Medical Equipment"
             ],
             "description": ""
         },
         {
             "id": "phil_00",
-            "title": "Children Hospital of Philadelphia 00",
+            "title": "Other Resources | Vaccines",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/phil_00.jpg",
             "imgURL": "assets/thumbnails/phil_00.jpg",
             "videoURL": "https://www.dropbox.com/s/mhn2f2p3xcmfaj3/phil_00.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
-                "Children's Hospital of Philadelphia"
+                "Other Resources"
             ],
             "description": ""
         },
         {
             "id": "phil_01",
-            "title": "Children Hospital of Philadelphia 01",
+            "title": "Other Resources | Child Passenger Safety",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
             "thumbURL": "assets/thumbnails/phil_01.jpg",
             "imgURL": "assets/thumbnails/phil_01.jpg",
             "videoURL": "https://www.dropbox.com/s/f6tikmhkuurrwhr/phil_01.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
-                "Children's Hospital of Philadelphia"
+                "Other Resources"
             ],
             "description": ""
         }
