@@ -585,12 +585,12 @@
             "description": ""
         },
         {
-            "id": "phil_00",
+            "id": "or_00",
             "title": "Other Resources | Vaccines",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
-            "thumbURL": "assets/thumbnails/phil_00.jpg",
-            "imgURL": "assets/thumbnails/phil_00.jpg",
-            "videoURL": "https://www.dropbox.com/s/mhn2f2p3xcmfaj3/phil_00.mp4?raw=1",
+            "thumbURL": "assets/thumbnails/or_00.jpg",
+            "imgURL": "assets/thumbnails/or_00.jpg",
+            "videoURL": "https://www.dropbox.com/s/mhn2f2p3xcmfaj3/or_00.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
                 "Other Resources"
@@ -598,12 +598,64 @@
             "description": ""
         },
         {
-            "id": "phil_01",
+            "id": "or_01",
             "title": "Other Resources | Child Passenger Safety",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
-            "thumbURL": "assets/thumbnails/phil_01.jpg",
-            "imgURL": "assets/thumbnails/phil_01.jpg",
-            "videoURL": "https://www.dropbox.com/s/f6tikmhkuurrwhr/phil_01.mp4?raw=1",
+            "thumbURL": "assets/thumbnails/or_01.jpg",
+            "imgURL": "assets/thumbnails/or_01.jpg",
+            "videoURL": "https://www.dropbox.com/s/f6tikmhkuurrwhr/or_01.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_02",
+            "title": "Other Resources | Prevent Shaken Baby Syndrome (English Subs)",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_02.png",
+            "imgURL": "assets/thumbnails/or_02.png",
+            "videoURL": "https://www.dropbox.com/s/o34vhjbbxsw22iq/or_02.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_03",
+            "title": "Other Resources | Prevent Shaken Baby Syndrome (English)",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_02.png",
+            "imgURL": "assets/thumbnails/or_02.png",
+            "videoURL": "https://www.dropbox.com/s/obwgoeiii4pgj2x/or_03.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_04",
+            "title": "Other Resources | Prevent Shaken Baby Syndrome (Espa&ntilde;ol)",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_04.png",
+            "imgURL": "assets/thumbnails/or_04.png",
+            "videoURL": "https://www.dropbox.com/s/svabro3vl4ni57d/or_04.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_05",
+            "title": "Other Resources | When Your Baby Cries",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_05.png",
+            "imgURL": "assets/thumbnails/or_05.png",
+            "videoURL": "https://www.dropbox.com/s/q0o5k8gh26zojp4/or_05.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
                 "Other Resources"
