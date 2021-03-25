@@ -614,8 +614,8 @@
             "id": "or_02",
             "title": "Other Resources | Prevent Shaken Baby Syndrome (English Subs)",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
-            "thumbURL": "assets/thumbnails/or_02.png",
-            "imgURL": "assets/thumbnails/or_02.png",
+            "thumbURL": "assets/thumbnails/or_02.jpg",
+            "imgURL": "assets/thumbnails/or_02.jpg",
             "videoURL": "https://www.dropbox.com/s/o34vhjbbxsw22iq/or_02.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
@@ -627,8 +627,8 @@
             "id": "or_03",
             "title": "Other Resources | Prevent Shaken Baby Syndrome (English)",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
-            "thumbURL": "assets/thumbnails/or_02.png",
-            "imgURL": "assets/thumbnails/or_02.png",
+            "thumbURL": "assets/thumbnails/or_03.jpg",
+            "imgURL": "assets/thumbnails/or_03.jpg",
             "videoURL": "https://www.dropbox.com/s/obwgoeiii4pgj2x/or_03.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
@@ -640,8 +640,8 @@
             "id": "or_04",
             "title": "Other Resources | Prevent Shaken Baby Syndrome (Espa&ntilde;ol)",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
-            "thumbURL": "assets/thumbnails/or_04.png",
-            "imgURL": "assets/thumbnails/or_04.png",
+            "thumbURL": "assets/thumbnails/or_04.jpg",
+            "imgURL": "assets/thumbnails/or_04.jpg",
             "videoURL": "https://www.dropbox.com/s/svabro3vl4ni57d/or_04.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
@@ -653,9 +653,35 @@
             "id": "or_05",
             "title": "Other Resources | When Your Baby Cries",
             "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
-            "thumbURL": "assets/thumbnails/or_05.png",
-            "imgURL": "assets/thumbnails/or_05.png",
+            "thumbURL": "assets/thumbnails/or_05.jpg",
+            "imgURL": "assets/thumbnails/or_05.jpg",
             "videoURL": "https://www.dropbox.com/s/q0o5k8gh26zojp4/or_05.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_05",
+            "title": "Other Resources | When Your Baby Cries",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_05.jpg",
+            "imgURL": "assets/thumbnails/or_05.jpg",
+            "videoURL": "https://www.dropbox.com/s/q0o5k8gh26zojp4/or_05.mp4?raw=1",
+            "subtitlesURL" : "",
+            "categories": [
+                "Other Resources"
+            ],
+            "description": ""
+        },
+        {
+            "id": "or_06",
+            "title": "Other Resources | Safe Sleep For Your Baby",
+            "pubDate": "Tuesday, 16 Feb 2021 11:57:06 GMT",
+            "thumbURL": "assets/thumbnails/or_06.jpg",
+            "imgURL": "assets/thumbnails/or_06.jpg",
+            "videoURL": "https://www.dropbox.com/s/04weedgyqtkzyhl/or_06.mp4?raw=1",
             "subtitlesURL" : "",
             "categories": [
                 "Other Resources"
