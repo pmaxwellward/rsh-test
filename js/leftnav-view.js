@@ -121,6 +121,7 @@
             }
 
             $(ele).addClass(CLASS_MENU_ITEM_SELECTED);
+            ele.innerText = this.leftNavItems[this.currSelectedIndex];
         };
 
        /**
@@ -138,6 +139,7 @@
 
             }
             $(ele).addClass(CLASS_MENU_ITEM_CHOSEN);
+            ele.innerText = 'Menu';
         };
 
        /**
